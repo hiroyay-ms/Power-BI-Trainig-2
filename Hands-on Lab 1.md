@@ -34,7 +34,7 @@
 
 ## はじめてのレポート作成
 
-### **CSV ファイルからデータを読み込み**
+### CSV ファイルからデータを読み込み
 
 - Power BI Desktop を起動
 
@@ -54,7 +54,7 @@
 
     <img src="images/get-customer-csv.png" />
 
-- データモデルに「**顧客**」が追加
+- フィールド リストに「**顧客**」が追加
 
   <img src="images/field-customer-master.png" />
 
@@ -110,7 +110,7 @@
 
   <img src="images/select-visual-card.png" />
 
-- フィールド リストの「**顧客**」から「**総人数**」を「**フィールド*」を指定
+- フィールド リストの「**顧客**」から「**総人数**」を「**フィールド**」を指定
 
   <img src="images/card-total-number-of-people-01.png" />
 
