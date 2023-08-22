@@ -142,6 +142,12 @@
 
   <img src="images/pie-chart-gender-03.png" />
 
+- 「...」をクリックし、「**軸の並べ替え**」-「**年代**」を選択し、年代順の表示に変更
+
+  <img src="images/pie-chart-gender-04.png" />
+
+  <img src="images/pie-chart-gender-05.png" />
+
 - ドラッグして大きさを調整
 
 <br />
@@ -170,13 +176,13 @@
 
   <img src="images/select-visual-matrix.png" />
 
-- フィールド リストの「**顧客**」から「**性別**」を「**行**」、「**総人数**」を「**値**」に指定
+- フィールド リストの「**顧客**」から「**年代**」を「**行**」、「**総人数**」を「**値**」に指定
 
-  <img src="images/matrix-gender-01.png" />
+  <img src="images/matrix-era-01.png" />
 
-- レポートにマトリックスで性別ごとの人数を表示
+- レポートにマトリックスで年代ごとの人数を表示
 
-  <img src="images/matrix-gender-02.png" />
+  <img src="images/matrix-era-02.png" />
 
 <br />
 
@@ -212,29 +218,19 @@
 
 - 「**値**」に「**人数比**」をドラッグして配置
 
-  <img src="images/matrix-gender-03.png" />
+  <img src="images/matrix-era-03.png" />
 
 - マトリックスに人数比が追加
 
-  <img src="images/matrix-gender-04.png" />
+  <img src="images/matrix-era-04.png" />
 
-- 「**行**」に「**年代**」をドラッグして配置
+- 「**列**」に「**年代**」をドラッグして配置
 
-  <img src="images/matrix-gender-05.png" />
-
-- 「**ビジュアルの書式設定**（<img src="images/visual-format.png" width="20" />）」を選択
-
-- 「**行見出し**」を展開、「**オプション**」の「**階段状レイアウト**」をオフに設定
-
-  <img src="images/matrix-gender-06.png" />
-
-- 「<img src="images/icon-drill-down.png" width="20" />」をクリックし、階層を展開
-
-  <img src="images/matrix-gender-07.png" />
+  <img src="images/matrix-era-05.png" />
 
 - 性別ごとに年代別の人数と総人数からの比率を表示
 
-  <img src="images/matrix-gender-08.png" />
+  <img src="images/matrix-era-06.png" />
 
 - ドラッグして大きさを調整
 
@@ -270,13 +266,13 @@
 
 - 先の手順で追加したマトリックスを選択
 
-- 「**値**」に「**総人数 % 年代**」をドラッグして配置
+- 「**値**」の「**人数比**」を削除し、「**総人数 % 年代**」をドラッグして配置
 
-  <img src="images/matrix-gender-09.png" />
+  <img src="images/matrix-era-07.png" />
 
 - マトリックスに性別内での年代比率を追加
 
-  <img src="images/matrix-gender-10.png" />
+  <img src="images/matrix-era-08.png" />
 
 - ドラッグして大きさを調整
 
@@ -323,13 +319,9 @@
 
   <img src="images/select-visual-matrix.png" />
 
-- フィールド リストの「**顧客**」から「**性別**」、「**学歴**」を「**行**」に、 「**総人数**」、「**総人数 % 学歴**」、「**人数比**」を「**値**」に指定
+- フィールド リストの「**顧客**」から「**学歴**」を「**行**」に、「**性別**」を「**列**」、 「**総人数**」、「**総人数 % 学歴**」、「**人数比**」を「**値**」に指定
 
   <img src="images/matrix-educational-01.png" />
-
-- 「**行見出し**」を展開、「**オプション**」の「**階段状レイアウト**」をオフに設定
-
-  <img src="images/matrix-educational-02.png" />
 
 - 指定した内容でレポートにマトリックスが追加
 
